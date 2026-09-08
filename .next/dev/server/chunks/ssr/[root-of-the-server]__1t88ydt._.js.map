@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/finlatics-andp-project-2-resume-roaster-starter/pages/index.js"],"sourcesContent":["// Demo code for index.js\nexport default function Home() {\n  return <div>Demo Home Page</div>;\n}\n"],"names":["Home"],"mappings":"AAAA,yBAAyB;;;;;;;AACV,SAASA;IACtB,qBAAO,qKAAC;kBAAI;;;;;;AACd"}}]
+}

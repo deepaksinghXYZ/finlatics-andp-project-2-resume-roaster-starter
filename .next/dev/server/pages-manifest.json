@@ -1,0 +1,7 @@
+{
+  "/": "pages/index.js",
+  "/[id]": "pages/[id].js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/roast": "pages/api/roast.js"
+}
