@@ -1,6 +1,6 @@
 
-import { parsePDF } from './pdfParser';
-import roastResume from './gemini';
+import { parsePDF } from '../../pdfParser';
+import roastResume from '../../gemini';
 
 // Tell Next.js not to parse the body so we can handle binary/form data
 export const config = {
